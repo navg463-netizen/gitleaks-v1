@@ -4,7 +4,7 @@ pipeline {
     }
 
     environment {
-        AWS_SECRET_ACCESS_KEY = "AKIA1234567890FAKEKEYEXAMPLE"
+        AWS_SECRET_ACCESS_KEY = "vH6sNCm51UDhQ9KlXXpJe5wKzm0e8f3YvA7trkqs"
     }
 
     stages {
