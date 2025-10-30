@@ -3,5 +3,5 @@ WORKDIR /app
 COPY python_app/ .
 RUN pip install flask
 ENV PORT=5000
-CMD ["python", "app.py"]
 EXPOSE 5000
+CMD ["python", "app.py"]
